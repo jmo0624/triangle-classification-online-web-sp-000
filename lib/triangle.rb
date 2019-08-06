@@ -8,5 +8,5 @@ class Triangle
   end
   
   def valid?
-    sum_one_two = 
+    sum_one_two = @triangle_sides[0]
 end
