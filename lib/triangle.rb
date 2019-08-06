@@ -5,5 +5,7 @@ class Triangle
     @triangle_sides << side_a
     @triangle_sides << side_b
     @triangle_sides << side_c
-    
+  end
+  
+  
 end
