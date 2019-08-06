@@ -7,5 +7,6 @@ class Triangle
     @triangle_sides << side_c
   end
   
-  
+  def valid?
+    
 end
