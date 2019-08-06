@@ -22,5 +22,5 @@ class Triangle
   def kind
     if valid?
       if @triangle_sides.uniq.length == 1
-        
+        return :equilateral
 end
