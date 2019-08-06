@@ -21,5 +21,5 @@ class Triangle
   
   def kind
     if valid?
-      if @triangle_sides
+      if @triangle_sides.uniq.length
 end
