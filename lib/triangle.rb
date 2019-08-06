@@ -19,5 +19,6 @@ class Triangle
     end
   end
   
-  
+  def kind
+    if 
 end
