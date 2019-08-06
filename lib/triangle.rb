@@ -1,5 +1,6 @@
 class Triangle
   
   def intialize(side_a, side_b, side_c)
-    @triangle
+    @triangle_sides = []
+    
 end
